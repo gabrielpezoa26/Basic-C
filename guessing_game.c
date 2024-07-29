@@ -49,7 +49,7 @@ int main() {
     while (1) {
         user_guess = user_prompt_guess(); 
         if (user_guess == -1) {
-            continue;
+            continue;k
         }
         attempts++; 
         
