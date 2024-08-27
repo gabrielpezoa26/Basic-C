@@ -34,7 +34,7 @@ int main(){
     }
     
     if (size == 'S'){
-        bill += 15;
+        bill += 15; 
         if (pepperoni == 'Y'){
             bill += 2;
         }
